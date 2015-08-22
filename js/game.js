@@ -10,7 +10,7 @@ function preload() {
     game.load.image('titlescreenbackground', 'assets/stl_bgts.png');
     game.load.image('titlescreentext', 'assets/stl_tstxt.png');
 
-    game.load.spritesheet('titlescreenplaybutton', 'assets/stl_ss_pbts.png', 216, 70);
+    game.load.spritesheet('titlescreenplaybutton', 'assets/stl_ss_pbts.png', 197, 92);
 }
 
 function create() {
